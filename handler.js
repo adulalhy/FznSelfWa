@@ -40,7 +40,7 @@ const color = (text, color) => {
 selfna = true
 fakenya = 'FAZONE'
 apikey = 'GaluhTbit'
-LolApi = 'ohayou'
+LolApi = 'BELI SENDIRI BRO'
 var AFK = {
     isAfk: false,
     reason: false,
